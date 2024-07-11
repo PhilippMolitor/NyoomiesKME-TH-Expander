@@ -180,7 +180,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fcdeeb10-bf65-49b7-ba82-898d135af691")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -408,7 +408,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5e1d4656-b5e4-4fa7-8263-f94ecaf786a9")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.85 -2.75)
@@ -881,7 +881,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/6c484fb1-3959-444d-8574-76dbe71eb7e5")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.06 3.51)
@@ -1352,7 +1352,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e545a141-399b-406a-b296-6fe8bfeff74f")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -1562,7 +1562,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C29266"
+		(property "LCSC Part #" "C47971"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1578,7 +1578,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/f5a285a6-78ff-4f03-8ecd-218f4459387b")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -1788,7 +1788,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C29266"
+		(property "LCSC Part #" "C47971"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1804,7 +1804,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4a2429db-258b-4733-8bbb-91385c70212a")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -2014,7 +2014,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C29266"
+		(property "LCSC Part #" "C47971"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2030,7 +2030,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b5acac63-6339-43a4-b412-3f0a08713d2c")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -2258,7 +2258,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/6f779f88-1ae3-48ad-8bf2-64819de7c08c")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.85 -2.75)
@@ -2729,7 +2729,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2751825d-c950-40ad-95c4-763e4dfc6f65")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -2957,7 +2957,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/42b7c533-df0e-4a3b-872f-eb9c67e464b2")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.06 3.51)
@@ -3428,7 +3428,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ba61c13a-7d2a-41fb-a47e-4a3adbcf2ebc")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -3638,7 +3638,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C29266"
+		(property "LCSC Part #" "C47971"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3654,7 +3654,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/138f455a-ada7-4c1e-8206-e541e5546847")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -3887,7 +3887,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/3fd99c1b-b605-4abb-bcb6-ab27b44579d8")
 		(sheetname "Root")
-		(sheetfile "NyoomiesKME-NTC-Expander.kicad_sch")
+		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
 			(start -1.27 1.33)
