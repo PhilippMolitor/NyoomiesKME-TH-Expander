@@ -4178,7 +4178,7 @@
 		(uuid "01b3d159-cad9-4c14-98fe-ac8ada720140")
 	)
 	(gr_text "HW Rev 0.2"
-		(at 149.5 97.5 0)
+		(at 141.5 101.25 90)
 		(layer "B.SilkS")
 		(uuid "15e1e85e-c0c3-4c3f-9954-97c3ffd7ddaf")
 		(effects
@@ -4201,8 +4201,8 @@
 			(justify bottom mirror)
 		)
 	)
-	(gr_text "NyoomiesKME\nNTC Expander"
-		(at 155 96 90)
+	(gr_text "NyoomiesKME\nTH Expander"
+		(at 156 96 90)
 		(layer "B.SilkS")
 		(uuid "7485cffc-854e-402f-902e-86a1fc713aed")
 		(effects

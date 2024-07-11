@@ -444,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "NyoomiesKME-NTC-Expander.kicad_pro",
+    "filename": "NyoomiesKME-TH-Expander.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -482,7 +482,7 @@
       "plot": "gerbers",
       "pos_files": "pcba",
       "specctra_dsn": "",
-      "step": "NyoomiesKME-NTC-Expander.step",
+      "step": "NyoomiesKME-TH-Expander.step",
       "svg": "",
       "vrml": ""
     },
