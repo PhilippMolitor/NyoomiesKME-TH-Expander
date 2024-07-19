@@ -4,6 +4,7 @@
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *-backups/
+\#auto_saved_files\#
 
 # Export / Production files
 production/
