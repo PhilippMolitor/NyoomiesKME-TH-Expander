@@ -1545,7 +1545,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1571,7 +1571,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property ki_fp_filters "C_*")
 		(path "/f5a285a6-78ff-4f03-8ecd-218f4459387b")
 		(sheetname "Root")
 		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
@@ -1771,7 +1771,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1797,7 +1797,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property ki_fp_filters "C_*")
 		(path "/4a2429db-258b-4733-8bbb-91385c70212a")
 		(sheetname "Root")
 		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
@@ -1997,7 +1997,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2023,7 +2023,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property ki_fp_filters "C_*")
 		(path "/b5acac63-6339-43a4-b412-3f0a08713d2c")
 		(sheetname "Root")
 		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
@@ -3621,7 +3621,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3647,7 +3647,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property ki_fp_filters "C_*")
 		(path "/138f455a-ada7-4c1e-8206-e541e5546847")
 		(sheetname "Root")
 		(sheetfile "NyoomiesKME-TH-Expander.kicad_sch")
