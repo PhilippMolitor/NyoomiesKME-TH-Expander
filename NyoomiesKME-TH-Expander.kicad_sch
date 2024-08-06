@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Nyoomies TH Expander")
-		(rev "0.2")
+		(rev "0.3")
 		(company "Philipp Molitor")
 	)
 	(lib_symbols
